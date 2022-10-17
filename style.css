@@ -1,0 +1,39 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera, #si
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px;
+ }
+#rg  
+{
+  color: black;
+}
+.gn
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:48px;
+}
+#h3{
+  font-size: 18px;
+  border-radius:10px ;
+  letter-spacing: 10px;
+}
+label{
+font-size:14px;
+color: blue;
+padding: 6px;
+border-radius: 10px;
+background-color: chocolate;
+}
